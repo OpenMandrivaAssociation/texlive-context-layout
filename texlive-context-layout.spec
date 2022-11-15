@@ -28,17 +28,8 @@ mkdir -p %{buildroot}%{_texmfdistdir}
 cp -a * %{buildroot}%{_texmfdistdir}
 
 %files
-%{_texmfdistdir}/tex
-%{_texmfdistdir}/tex/context
-%{_texmfdistdir}/tex/context/third
 %{_texmfdistdir}/tex/context/third/layout
-%{_texmfdistdir}/tex/context/third/layout/t-layout.tex
-%{_texmfdistdir}/doc
-%doc %{_texmfdistdir}/doc/context
-%doc %{_texmfdistdir}/doc/context/third
 %doc %{_texmfdistdir}/doc/context/third/layout
-%doc %{_texmfdistdir}/doc/context/third/layout/t-layout.pdf
-%doc %{_texmfdistdir}/doc/context/third/layout/VERSION
 
 %post -p %{_sbindir}/texlive.post
 
