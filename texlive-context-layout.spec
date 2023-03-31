@@ -1,6 +1,6 @@
 Name:		texlive-context-layout
 Version:	47085
-Release:	1
+Release:	2
 Summary:	Show ConTeXt layouts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-layout
