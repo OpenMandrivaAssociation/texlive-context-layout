@@ -3,7 +3,7 @@ Version:	47085
 Release:	2
 Summary:	Show ConTeXt layouts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-layout
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/context-layout
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-layout.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-layout.doc.r%{version}.tar.xz
